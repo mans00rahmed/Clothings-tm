@@ -1,2 +1,2 @@
-# Clothings-tm
+# Clothings™
 Website for Fabric Production House
