@@ -1,0 +1,269 @@
+.fa {
+  padding: 20px;
+  font-size: 20px !important ;
+  width: 60px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(182, 178, 178);
+  text-decoration: none !important;
+}
+
+:hover.fa-facebook {
+  color: blue ;
+}
+
+/* ===== about developer ======= */
+
+.fa-github{
+  display: inline;
+  color: white;
+}
+.fa-linkedin{
+  display: inline;
+  color: white;
+}
+
+
+:hover.fa-twitter{
+  color: rgb(35, 169, 231) !important
+}
+
+:hover.fa-youtube {
+  color:red;
+}
+:hover.fa-instagram{
+  color: rgb(245, 75, 208);
+}
+
+
+.button {
+  margin-left: 1000px;
+  border-radius: 5px;
+  border: 2px solid white;
+}
+
+.footer {
+  background-color: #343A40;
+  width: 1550px;
+  height: 30px;
+}
+
+.productheading {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* === Contact section === */
+
+/* Contact Form */
+
+.form {
+  padding-top: 50px;
+  margin: auto;
+  width: 900px;
+  color: white;
+}
+/*--------------------------------------------------------------
+# Sections
+--------------------------------------------------------------*/
+section {
+  padding: 60px 0;
+  overflow: hidden;
+}
+
+.section-bg {
+  background-color: #f7f8f9;
+}
+
+.section-title {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.section-title h2 , h1{
+  text-align: center; 
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  font-family: "Poppins", sans-serif;
+  color: #627680;
+}
+
+.section-title p {
+  margin-bottom: 0;
+}
+
+/*--------------------------------------------------------------
+# Contact form
+--------------------------------------------------------------*/
+.contact .info {
+  padding: 30px;
+  background: #fff;
+  width: 100%;
+  border: 2px solid #e9ecee;
+  border-radius: 4px;
+}
+
+.contact .info i {
+  font-size: 20px;
+  color: #627680;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #f2f4f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #364146;
+}
+
+.contact .info p {
+  padding: 0 0 10px 60px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #627680;
+}
+
+.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+  background: #627680;
+  color: #fff;
+}
+
+.contact .contact-form {
+  width: 100%;
+  padding: 30px;
+  background: #fff;
+  border: 2px solid #e9ecee;
+  border-radius: 4px;
+}
+
+.contact .contact-form .form-group {
+  padding-bottom: 8px;
+}
+
+.contact .contact-form input, .contact-form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+.contact .contact-form input {
+  height: 44px;
+}
+
+.contact .contact-form textarea {
+  padding: 10px 12px;
+}
+
+/* ========================= About Section =================== */
+
+.about {
+  padding-left: 60px;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+  font-family: "Poppins", sans-serif;
+  color: #627680;
+}
+
+.aboutimg {
+  margin-top: 0px;
+  margin-left: 750px;
+  border: 15px solid grey;
+  height: 800px;
+  width: 700px;
+}
+
+.text {
+  position: absolute;
+  background-color: white;
+  color: #627680;
+  display: inline-flex;
+  width: 680px;
+  height: 230px;
+  margin-top: 270px;
+  margin-left: 200px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 20px;
+}
+
+footer {
+  background-color: #25272E;
+  height: 230px;
+  width: 1550px;
+}
+
+.address {
+
+  padding-top: 30px;
+  width: 400px;
+  margin-left: 50px;
+}
+.address2 {
+
+  padding-top: 30px;
+  width: 400px;
+  
+}
+
+.sm {
+  width: 400px;
+}
+
+.A {
+  padding-left: 200px;
+}
+
+.up {
+  padding-left: 1500px;
+}
+
+.useful {
+  padding-left: 300px;
+}
+
+/* .carousel .carousel-inner {
+  height: 900px
+}
+
+.carousel-inner .carousel-item img {
+  min-height: 200px;
+  object-fit: cover
+}
+
+@media(max-width:768px) {
+  .carousel .carousel-inner {
+    height: auto
+  }
+} */
+.texting{
+  text-align: center;
+  display: inline-flex;
+  width: 800px;
+  margin-left: 30px;
+
+
+}
+/* =========== Karachi=========== */
+.card1{
+  border-radius:12px;
+  margin-top:-500px !important ;
+  margin-left: 625px;
+
+}
+
+
+
+
+
